@@ -3,3 +3,6 @@
 
 ## sourcetree 사용하기
 - GUI로 add, commit, push, pull 하기
+
+## VS code
+- GUI로 add, commit, push, pull 하기
